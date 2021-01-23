@@ -1,4 +1,4 @@
-def introduction (jabair)
+def introduction (name)
   puts "Hi, my name is #{jabair}"
 end
 
