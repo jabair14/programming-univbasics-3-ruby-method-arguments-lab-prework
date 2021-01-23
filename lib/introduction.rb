@@ -1,22 +1,6 @@
-def introduction
-  
+def introduction (jabair)
+  puts "Hi, my name is #{jabair}"
 end
-
-def introduction (Jabair)
-  
-end
-
-def introduction (Jabair)
-  puts "Hi, my name is #{name}."
-end
-
-def introduction_with_language (Jabair, language)
-  
-end
-
-def introduction_with_language (name = "Jabair", language = "Ruby")
-  puts "Hi, my name is #{name} and I am learning to program in #{language}."
-end 
 
 
 
