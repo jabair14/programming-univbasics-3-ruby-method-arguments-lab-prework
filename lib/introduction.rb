@@ -1,5 +1,5 @@
-def introduction (Jabair)
-  puts "Hi, my name is #{Jabair}."
+def introduction (name)
+  puts "Hi, my name is #{name}."
 end
 
 
