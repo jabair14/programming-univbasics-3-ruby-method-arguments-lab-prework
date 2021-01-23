@@ -2,7 +2,7 @@ def introduction
   
 end
 
-def introduction (name)
+def introduction (Jabair)
   
 end
 
@@ -10,7 +10,7 @@ def introduction (Jabair)
   puts "Hi, my name is #{name}."
 end
 
-def introduction_with_language (name, language)
+def introduction_with_language (Jabair, language)
   
 end
 
