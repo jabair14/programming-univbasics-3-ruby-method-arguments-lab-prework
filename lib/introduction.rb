@@ -1,6 +1,6 @@
+name = "Jabair"
 def introduction (name)
   puts "Hi, my name is #{name}"
-  name = "Jabair"
 end
 
 
